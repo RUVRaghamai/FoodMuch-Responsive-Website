@@ -1,0 +1,266 @@
+
+.navbar img
+{
+  height:50px;
+  width:80px;
+  
+}
+.navbar-items-align
+{
+  margin-left:auto;
+  color:#323f4b;
+  font-family:"Roboto";
+}
+.banner-section-bg-container
+{
+  background-image:url('foodmunch-banner-bg.png');
+  background-size:cover;
+  height:100vh;
+}
+.banner-heading
+{
+  font-family:"Roboto";
+  font-size:45px;
+  color:white;
+  font-weight:bold;
+}
+.banner-para
+{
+  font-size:35px;
+  font-family:"Roboto";
+  color:white;
+  font-weight:500;
+}
+.butt
+{
+  width:130px;
+  height:40px;
+  color:white;
+  background-color:#d0b200;
+  border-width:0px;
+  border-radius:8px;
+  margin-right:10px;
+}
+.but
+{
+  width:130px;
+  height:40px;
+  color:white;
+  background-color:transparent;
+  border-width:1px;
+  border-radius:8px;
+  border-style:solid;
+  border-color:#d0b200;
+  
+ }
+.why-us
+{
+ background-color:#f9fbfe;
+ 
+}
+.why-us-heading
+{
+  font-size:25px;
+  font-family:"Roboto";
+  color:#183b56;
+  font-weight:700;
+}
+.why-us-desc
+{
+  font-size:16px;
+  font-family:"Roboto";
+  color:#5a7184;
+  
+}
+.wc-card
+{
+  background-color:white;
+  text-align:center;
+  border-style:solid;
+  border-width:1px;
+  border-radius:16px;
+  border-color:#e5eaf4;
+}
+.wc-card-image
+{
+ height:90px;
+ width:87px;
+}
+.wc-card-head
+{
+ font-weight:500;
+ font-size:22px;
+ font-family:"Roboto";
+ color:#323f4b;
+}
+.wc-card-desc
+{
+ font-size:16px;
+ font-family:"Roboto";
+ color:#323f4b;
+}
+.offers
+{
+  font-size:15px;
+  font-weight:bold;
+  color:#323f4b;
+  font-style:italic;
+}
+.ex-head
+{
+   font-size:25px;
+  font-family:"Roboto";
+  color:#183b56;
+  font-weight:700;
+}
+.ex-image
+{
+  border-radius:15px;
+  height:230px;
+  
+}
+.ex-card-title
+{
+  font-size:16px;
+  font-family:"Roboto";
+  color:#323f4b;
+  font-weight:700;
+  margin-top:24px;
+}
+.ex-item
+{
+  font-size:16px;
+  font-family:"Roboto";
+  color:#d0b200;
+  font-weight:500;
+  }
+.ex-item-card
+{
+  border-radius:16px;
+}
+.healthy
+{
+ background-color:#f9fbfe;
+}
+.healthy-img 
+{
+  width: 270px;
+}
+.healthy-heading
+{
+  font-weight:700;
+ font-size:20px;
+ font-family:"Roboto";
+ color:#183b56;
+ }
+.healthy-desc
+{
+   color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.healthy-button
+{
+  width:130px;
+  height:40px;
+  color:white;
+  background-color:#d0b200;
+  border-width:0px;
+  border-radius:8px;
+  }
+.delivery-img
+{
+  width:270px;
+}
+.payment-card-img
+{
+  height:60px;
+  width:50px;
+  margin-right:25px;
+}
+.delivery-heading
+{
+  font-weight:700;
+ font-size:22px;
+ font-family:"Roboto";
+ color:#183b56;
+}
+.delivery-desc
+{
+   color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.custom-button
+{
+  width:130px;
+  height:40px;
+  color:white;
+  background-color:#d0b200;
+  border-width:0px;
+  border-radius:8px;
+  }
+.thanking
+{
+  background-color:#d0b2001a;
+  background-image:radial-gradient(#fff8db,#fae38c);
+}
+.thank-head
+{
+  font-size:25px;
+  font-family:"Roboto";
+  color:#183b56;
+  font-weight:700;
+}
+.thank-desc
+{
+  font-size:16px;
+  font-family:"Roboto";
+  color:#5a7184;
+  
+}
+.thanking-img
+{
+ width: 270px;
+ margin-bottom:20px;
+}
+
+.thank-btn
+{
+  color: white;
+  background-color: #d0b200;
+  width: 130px;
+  height: 46px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+
+.follow-head
+{
+  font-size:27px;
+  font-family:"Roboto";
+  color:#183b56;
+  font-weight:700;
+  text-align:center;
+}
+.icon-container {
+  background-color: #faf7e8;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  margin: 15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 16px;
+  padding-left: 16px;
+  font-size:30px;
+  text-align:center;
+  color:#d0b200;
+  
+}
+.thank-title
+{
+ color:#d0b200;
+ font-weight:800;
+}
